@@ -128,6 +128,7 @@ export const tableWikilinkRegex = new RegExp(/(!?\[\[[^\]]*?\]\]|\[\^[^\]]*?\])/
 
 const highlightRegex = new RegExp(/==([^=]+)==/g)
 const commentRegex = new RegExp(/%%[\s\S]*?%%/g)
+const hiddenBlockRegex = new RegExp(/\=\=\=+.*?\=\=\=+/gms)
 // from https://github.com/escwxyz/remark-obsidian-callout/blob/main/src/index.ts
 const calloutRegex = new RegExp(/^\[\!([\w-]+)\|?(.+?)?\]([+-]?)/)
 const calloutLineRegex = new RegExp(/^> *\[\!\w+\|?.*?\][+-]?.*$/gm)
@@ -161,7 +162,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
       if (opts.comments) {
         src = src.replace(commentRegex, "")
       }
-
+      src = src.replace(hiddenBlockRegex, "")
       // pre-transform blockquotes
       if (opts.callouts) {
         src = src.replace(calloutLineRegex, (value) => {
