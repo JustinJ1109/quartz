@@ -1,0 +1,3 @@
+House Virellan is an ancient elven bloodline steeped in divine prophecy and political doctrine. Originally keepers of sacred archives in the high temples of [[The Aurelian Synod]], they rose to prominence after [[The Prophet’s Fall]], when they interpreted the stars to justify their rule. They maintain authority through their stewardship of the [[Argent Library]] and its forbidden texts.
+
+Archcleric [[Serelith Virellan]] leads the house, an enigmatic figure cloaked in ceremonial gold and veils. She is flanked by her twin sons, [[Jeralen Virellan|Jeralen]] and [[Sareth Virellan|Sareth]], who serve as doctrinal inquisitors. House Virellan’s piety is rivaled only by its secrecy—few know the true extent of their divine insight or their long-term goals.

@@ -1,0 +1,7 @@
+> _"A thousand lights, and each one hides a shadow."_
+
+The Thousand Lanterns is a sprawling, decentralized syndicate of smugglers, sea captains, entertainers, pirates, and information brokers. Named for the flickering lamps hung in its safehouses and coded messages passed by lantern signal, the organization controls much of the illicit trade across Enan’s coasts, rivers, and roads. Though not a nation in the traditional sense, it commands territory in ports, hidden coves, and even parts of cities that have grown reliant on its shadowy infrastructure.
+
+Operating more as a confederation than a hierarchy, individual captains, crews, or criminal families act with wide autonomy. A loose code—known as "The Lantern Laws"—governs internal disputes, offering rough justice through duels, arbitration, or retribution. Reputation is everything; those who cheat the code often don’t live to do it twice.
+
+To some, the Thousand Lanterns are pirates and parasites. To others, they’re the only ones willing to ship food to besieged towns, provide passage to the desperate, or keep power in check when tyrants rule the seas. They walk the line between romantic rebels and ruthless opportunists, and many a rogue adventurer has gotten their start beneath the glow of a Lantern light.

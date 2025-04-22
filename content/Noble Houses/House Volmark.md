@@ -1,0 +1,3 @@
+Goliath-born and granite-willed, House Volmark rose from iron miners to industrial nobility within a generation. After discovering a cache of magically-reactive ore, they brokered deals with arcane firms to create weaponized enchantments for [[The Ironwrought Assembly]]. Their forge-city, [[Hearthvault]], produces everything from automaton chassis to lightning-powered cannons.
+
+Currently headed by [[Bastan Volmark]], a war-scarred veteran and former siege engineer, the house is known for pushing boundaries both ethical and arcane. His niece, [[Vexa Volmark|Vexa]], is a rising figure in the experimental magi-tech scene. House Volmark is among the Assembly’s most aggressive proponents of expansion and arcano-industrial militarization.

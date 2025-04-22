@@ -1,0 +1,3 @@
+Rising from humble shipping roots, House Dorrival amassed wealth during the merchant wars that shaped [[The Free Republic of Mershant]]. By strategically underwriting naval expeditions and magical trade routes, they became one of the wealthiest dynasties in the region. Their holdings include several banks, two private academies, and a fleet of bonded merchant vessels.
+
+Patriarch [[Renald Dorrival]], a former [[The Trade Assembly#Chancellor of the Trade Assembly|Chancellor of the Trade Assembly]], maintains a thin veneer of public benevolence while quietly funding espionage efforts abroad. His daughter, [[Celaine Dorrival|Celaine]], is a controversial figure in Mershant politics, known for her radical economic proposals. Estimated net worth: 46 million gold marks.

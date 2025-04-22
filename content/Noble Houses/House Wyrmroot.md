@@ -1,0 +1,3 @@
+Tucked away in the misty vales of [[The Kingdom of Tindalos]], House Wyrmroot is a halfling-gnome lineage steeped in ancient folklore, eerie rites, and woodland diplomacy. They rule the settlement of [[Foxwick]] from a burrow-palace carved into a great petrified tree, and are said to have a pact with the spirits that haunt [[The Dimming Expanse|the Expanse]].
+
+Queen [[Primula Wyrmroot]], equal parts herbalist and noble, keeps her court modest and uncanny. Her son [[Tobin Wyrmroot|Tobin]], a mischievous sorcerer, is known for hosting riddling festivals under moonlight. Despite their seemingly quaint demeanor, the Wyrmroots have subtle influence through their herbal exports, spirit-conjurors, and uncanny knowledge of prophecy.

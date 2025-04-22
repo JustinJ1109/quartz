@@ -1,0 +1,3 @@
+Not a house in the traditional sense, the Ulaan-Yurak Banner is the united war-host that currently holds dominion over all nine Bone-Courts of the [[Kezhari Bone-Courts|Kezhari]]. A confederation bound by blood and conquest, the Banner is led by Vohr [[Saryk]], a warlord and shaman who united the courts through ritual combat and divine vision.
+
+Each of his five children leads a distinct division of the Banner—ranging from mounted archers to spirit-callers. Their rise has stabilized the Kezhari plains for the first time in decades, though critics wonder how long such unity can last in a culture driven by challenge and honor. The Ulaan-Yurak are said to ride with the wind spirits, their banners stitched with sigils older than the empires.

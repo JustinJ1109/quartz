@@ -1,0 +1,7 @@
+>_"From fire, purpose. From purpose, strength."_
+
+Built deep within a thunder-riven mountain range, the Ironwrought Assembly is a confederation of forge-states, each ruled by guild-masters, artificers, and master engineers. While dwarves dominate its leadership, the Assembly is a haven for any who possess genius in craft—be they gnome, goblin, or human. Their cities are marvels of magical industry, powered by elemental furnaces and arcano-mechanical wonders.
+
+The Assembly is defined by its fierce meritocracy. Inventions win influence, and titles are awarded based on one’s ability to improve the Assembly’s standing through innovation, efficiency, or military might. Their society values logic and order, and their council sessions—held in enormous, gear-driven auditoriums—are as much engineering demonstrations as political meetings.
+
+While officially isolationist, the Assembly exports its war machines, golem laborers, and clockwork luxuries to trusted allies and neutral markets. It watches Thresher & Coil’s rise with wary interest, suspicious of the megacorp’s arcane recklessness. Many within the Assembly believe that only they can guide the future of industrialized magic—and are quietly preparing for the day when their steel must speak louder than diplomacy.

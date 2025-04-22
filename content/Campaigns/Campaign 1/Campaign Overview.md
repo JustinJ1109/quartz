@@ -1,29 +1,5 @@
-# Synopsis
-
-## Test
-```leaflet
-id: grayharbor-interactive
-image: [[greyharbor.png]]
-bounds:
-  - [0,0]
-  - [576,568]
-unit: miles
-minZoom: 0
-maxZoom: 10
-defaultZoom: 0
-lat: 288
-long: 284
-```
 
 
-- [ ] Test Here
-
-=====
-#### (DM)
-this is only dm text
-
-=====
-#### Syn
 In the untamed world of [[World Overview#Enan|Enan]], the balance between nature and civilization is beginning to crumble. An ambitious and rising power, [[Thresher & Coil Industry]], is expanding its reach—annexing lands, uprooting ancient forests, and leaving scorched earth in its wake. Their relentless march of industry threatens the wild magic of the land, awakening ancient forces and igniting tensions among old powers. As fear spreads and alliances fray, whispers of war stir across the realms. Will [[World Overview#Enan|Enan]] be reforged in steel and smoke, or will nature rise to reclaim what was stolen?
 ## Player-Facing Synopsis
 Enan is changing—fast.

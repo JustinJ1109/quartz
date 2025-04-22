@@ -1,0 +1,5 @@
+> _"Steel Serves the Vision"_
+
+One of the founding families of [[The Ironwrought Assembly]], House Haskett is a proud dwarven line of master smiths, engineers, and industrial magnates. Their stronghold-factory in [[Deepmire Forge]] is a humming bastion of innovation and labor. The family’s motto, “Steel Serves the Vision,” reflects their ethos of mechanical progress.
+
+The house is led by Ironmother [[Brynja Haskett]], whose no-nonsense approach to politics and production has kept the family relevant amid economic downturns. Her younger brother, [[Tolgrim Haskett|Tolgrim]], serves as a [[The Ironwrought Assembly#Union Representative|Union Representative]] and agitates for worker protections—a rare position in the Assembly. House Haskett is estimated to control 17% of the Assembly’s arcano-metal exports.
