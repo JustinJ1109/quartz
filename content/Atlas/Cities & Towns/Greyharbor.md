@@ -8,10 +8,12 @@
 > ## - Overview -
 > |   |   |
 > | ---- | ----- |
-> | **Region:** | Western Enan, [[The Gloamfen]] |
-> | **Founded:** | Circa 712, 4th Age |  
+> | **Region:** | Western [[Enan]], [[The Gloamfen]] |
+> | **Founded:** | [[Timeline\|Circa 712, 4th Age]] |  
 > | **Population:** | ~330,000 (Metropolitan: ~470,000) |  
-> | **Governance:** | Industrial-Civic Council |
+> | **Governance:** | [[The Ironwrought Assembly]] (Industrial-Civic Council) |
+> | **Consul**: | [[Bastan Volmark]] (Dwarf), 1009, 4th Age - Present |
+> | **Magistrates:** | [[Drenna Karrusk]] (Goliath) 995 - Present, [[Orvus Grumblatch]] (Goblin) 760 - Present, [[Kippi Skizzik]] (Kobold) 1004 - Present |
 > | **Known For:** | Arcano-mechanical innovation, airship docks, sprawling industrial economy, economic inequality, smog-choked skylines, Greyharbor Clockspire |
 ## **Overview**
 
@@ -41,7 +43,7 @@ Key districts include:
 
 ### Lower Tier
 
-On the Haddock’s eastern bank lies the city’s industrial engine — smokestacks, factories, slums, and steam-choked streets. Here, life is cheap and work is eternal.
+On the Haddock River’s eastern bank lies the city’s industrial engine — smokestacks, factories, slums, and steam-choked streets. Here, life is cheap and work is eternal.
 
 Key districts include:
 
@@ -54,7 +56,7 @@ Key districts include:
 
 ---
 
-### **Outer Tier: The Metro Ring**
+### **Outer Tier**
 
 Beyond the city walls lies the outer sprawl — villages, shanty districts, and satellite communities that orbit Greyharbor's industrial gravity.
 
@@ -83,13 +85,13 @@ Still, for many, Greyharbor represents _possibility_. A single invention, perfor
 
 ## **Notable Organizations**
 
-- **Thresher & Coil Industry** – (Now headquartered in Redvale) Originally rose to prominence in Greyharbor; still operates massive facilities here.
+- **[[Thresher & Coil Industry]]** – (Now headquartered in Redvale) Originally rose to prominence in Greyharbor; still operates massive facilities here.
     
-- **Guild of Timewrights** – Arcano-temporal guild headquartered in The Clockspire.
+- **[[Guild of Timewrights]]** – Arcano-temporal guild headquartered in The Clockspire.
     
-- **Iron Ring Union** – Semi-legal labor organization advocating for workers' rights.
+- **[[Iron Ring Union]]** – Semi-legal labor organization advocating for workers' rights.
     
-- **The Vantine Trust** – Mysterious banking and mercantile syndicate based in Redgate.
+- **[[The Vantine Trust]]** – Mysterious banking and mercantile syndicate based in Redgate.
 
 ## Player Journal
 ### Notable NPCs

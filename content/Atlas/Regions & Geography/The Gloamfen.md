@@ -8,7 +8,7 @@ _- First words of a fallen adventurer, as recounted via Speak with Dead
 >|     |    |
 >| ---- | ----- |
 >| Biome | Wetlands (Fen), Floodplains |
->| Major Settlements | [[Greyharbor]], Mirewatch, Latchbone |
+>| Major Settlements | [[Greyharbor]], [[Hearthvault]], [[Drakthold]], [[Ashvex Hollow]], [[Gravemire Bastion]] |
 >| Flora | Glowbulbs, witchfern, bogfoil |
 >| Fauna | Fen serpents, trolls, fomorians, displacer beasts |
 >| Key Landmarks | Hag covens, sinking temples, industrial expansion zones | 
@@ -16,9 +16,11 @@ _- First words of a fallen adventurer, as recounted via Speak with Dead
 
 ### **Overview**
 
-The Gloamfen is a vast, misty region of swampy lowlands, where dense marshes, shadowed glades, and slow-moving rivers dominate the landscape. The wetland is situated on the northwestern side of [[Atlas/Continents/Enan]]. At the heart of this treacherous land flows the Haddock River, which serves as both a lifeline and a dangerous obstacle for those navigating the Gloamfen. Its sluggish waters wind through the region, dividing settlements and providing a means of transport—albeit a perilous one, as the river is often home to Fen Serpents and other aquatic dangers. The constant fog and murk make the land seem eternally twilight, with strange lights from the Glowbulbs that dot the landscape only adding to the eerie ambiance.
+The Gloamfen is a vast, misty region of swampy lowlands, where dense marshes, shadowed glades, and slow-moving rivers dominate the landscape. The wetland is situated on the northwestern side of [[Enan]]. At the heart of this treacherous land flows the Haddock River, which serves as both a lifeline and a dangerous obstacle for those navigating the Gloamfen. Its sluggish waters wind through the region, dividing settlements and providing a means of transport—albeit a perilous one, as the river is often home to Fen Serpents and other aquatic dangers. The constant fog and murk make the land seem eternally twilight, with strange lights from the Glowbulbs that dot the landscape only adding to the eerie ambiance.
 
 Despite its wild beauty, the Gloamfen is a place of great peril. Its major settlement, [[Greyharbor]], serves as the industrial heart of the region, surrounded by factories and arcane rail hubs that contrast sharply with the untamed wilderness. Smaller settlements like Mirewatch and Latchbone cling to higher ground or float atop the marshes, struggling to survive in a land teeming with both magical and natural threats. The region is known for its strange blend of ancient druidic power, hag magic, and the encroaching forces of industry—creating a dangerous and unstable environment for any who venture too deep into its fog-covered reaches.
+
+The Gloamfen is also home to the 4 major forge-cities that compose [[The Ironwrought Assembly]]. [[Hearthvault]], the dwarven city of the confederation, resides north of Greyharbor along the Haddock River. [[Drakthold]], the kobold forge city, is nestled deep in the eastern bog along the road towards [[The Gloommere Highlands]] built around and below [[Fen Lake]]. The goliath forge-city [[Gravemire Bastion]] sits atop the rolling hills above the wetlands to the north-eastern region nearest [[The Dimming Expanse]]. [[Ashvex Hollow]] took hold surrounding the ancient ruins to the southern edge of the region, preferring the warmer climate that the fen has to offer closer to [[The Mornreach Coast]]
 
 ### **Notable Dangers**
 
