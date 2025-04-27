@@ -32,7 +32,7 @@ The Upper Tier sits elevated atop the river’s west bank, commanding a view of 
 
 Key districts include:
 
-- **The Gildspire** – Seat of city governance and home to the wealthiest citizens and seat of [[Castle Lothron]]. Polished brass towers, airship moorings and noble palaces are commonplace along the streets here.
+- **The Gildsprawl** – Seat of city governance and home to the wealthiest citizens and seat of [[Castle Lothron]]. Polished brass towers, airship moorings and noble palaces are commonplace along the streets here.
     
 - **Crankridge** – Arcano-engineering heart of the city; academies, inventor guilds, high-society workshops, and various shops and restaurants.
     

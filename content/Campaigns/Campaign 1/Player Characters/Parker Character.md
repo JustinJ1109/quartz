@@ -1,4 +1,4 @@
-Goblin
+Orc
 
 Works for factory, factory manager is a POS who underpays him
 
