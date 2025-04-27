@@ -111,7 +111,7 @@ Wipe the records. Destroy the assets. Leave no trace. The factory is a liability
     
 - **Clue:** Lab notes detailing “ether siphoning from living subjects” and a mention of Project Harrowglass.
     
-- **Encounter:** One unstable containment pod — a malformed creature (Homebrew: _Spell-Twisted Aberrant_, CR 1) breaks free if disturbed.
+- **Encounter:** unstable containment pod — 1 half-twisted humanoid sits unconscious in a human-sized chamber. 2 beside it appear to have cracked with nothing but spare tubes dangling. (2 Nothic + 1 if other is released)
     
 
 ---
@@ -125,7 +125,7 @@ Wipe the records. Destroy the assets. Leave no trace. The factory is a liability
 - Controls jury-rigged — requires successful DC 13 Intelligence (Tinker’s Tools) to bypass.
     
 - **Hazard:** Malfunctioning lift may drop violently (Dex save DC 13 to avoid 2d6 bludgeoning).
-    
+- Ochre Jelly has corroded the gears used to stablize the cart, which sits at the bottom. 
 
 ---
 
@@ -138,7 +138,8 @@ Wipe the records. Destroy the assets. Leave no trace. The factory is a liability
 - **Clue:** Scribbled note: _“Move remaining assets to Theta before sweep.”_
     
 - **Encounter:** Swarm of animated scrap constructs (CR 1).
-    
+
+[Animated Armor](https://www.dndbeyond.com/monsters/16786-animated-armor)
 
 ---
 
@@ -177,7 +178,8 @@ Wipe the records. Destroy the assets. Leave no trace. The factory is a liability
 - **Treasure:** A prototype arcane device (your call — maybe a single-use wand or unstable potion).
     
 - **Clue:** A logbook hinting at a visiting dignitary or exec scheduled to tour the site next week.
-    
+
+(If they are doing too well, throw a [Flesh Golem](https://www.dndbeyond.com/monsters/16863-flesh-golem) here)
 
 ---
 
