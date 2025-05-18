@@ -36,4 +36,32 @@ A number of stacked crates marked with Sigils that notate "Arcane Hazard", compa
 DC 12 Investigation to notice that the marble here has been chipped and cracked, almost the shape of talons or claws, each about as long as their heads.
 
 #### Basement
-Narrow, flickering hallways lit by arcane invention. The inside is damp like a cave, now that all the ventilation has been non-functional for a few days. A doorway opens up into a holding chamber. 6 reinforced steel cells align the hallway walls. Blood smears on the walls scribble in a foreign language (Celestial) "The Witness watches, even now." A side office filled with filing cabinets behind a desk. see [[Dossier 1]], [[Dossier 2]], [[Dossier 3]]
+Narrow, flickering hallways lit by arcane invention. The inside is damp like a cave, now that all the ventilation has been non-functional for a few days. A doorway opens up into a holding chamber. 6 reinforced steel cells align the hallway walls. Blood smears on the walls scribble in a foreign language (Celestial) "The Witness watches, even now." A side office filled with filing cabinets behind a desk. see [[Dossier 1]], [[Dossier 2]], [[Dossier 3]].
+
+Testing rooms, looking in on the test subject to study. Body parts that look to have been corroded lay on the ground throughout the facility. (fed upon by The Wretch [[Dossier 2]]).
+
+#### Specimen Storage rooms
+Empty biohazard crates. One crate stamped "M-9 ingestible biological matter - Asset Secure Transfer". A document laid upon it reads that it was sourced from the East Slums of Greyhabor. 
+Jars of preserved organs. Another crate marked "Supply Refuse/Waste" filled with teeth, bones, etc.
+
+
+
+### Medical Bay
+- Bloodstained surgical tables.
+- Syringe racks labeled with experimental drugs: Adrenaline X, Molt-Stim, Cerebral Suppressor.
+- Crumpled notes about “mimetic strain degradation.”
+
+A stairway leads to substation theta
+
+### Substation Theta
+Large industrial control room
+6 Large conduits and silos lines either wall, and metal catwalk/stairwell leads upwards to the top control panel looking down at the party, The Witness stationed behind it looking down at the party.
+Floating debris meanders slowly around the room in a cyclone-like shape around the creature at the top. 
+"I... knew you'd be here. I always know"
+## Afterwards
+if they do the mission:
+	Zink returns to [[Olostina Etherworks]], the factory lead informs Zink that his direct supervisor had extended his vacation time in [[The Mornreach Coast]] and due to his success in the previous mission, Zink is offered a promotion. He is to report to his new station at once, where he will sign an NDA to receive his position and attend a meeting where he learns:
+	- There has been word of potential whistleblowers. To safeguard the company, they need Zink and party to track them down and steal their memories related to the workings of the factory to be used for orientation for a new round of R&D recruits using memory stones. Afterwards, they will need to take them out and dispose of them properly.
+	- Zink is also tasked to send the Chief of Police a message for why he needs to stay out of T&Cs business.
+	- He is given a list of workers that work at the factory and a brief history about each of them. The ones that are circled are to be eliminated.
+	- Zink is encouraged to use the same team with similar success. And if all goes well, they may also be granted a full-time position and put on payroll.
