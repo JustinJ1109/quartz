@@ -1,0 +1,11 @@
+[[Zink Mangrove]] received a [[Internal Memo]] from his supervisor at [[Olostina Etherworks]] which outlined a protocol known as "Clearing House Protocol", in which he is to assemble a team capable of infiltrating a factory in the [[Greyharbor#⚙️ The Brassreach Yards — The Grand Factoryscape|Brassreach Yards]] that was recently quarantined, putting all the factory workers on furlough indefinitely. Various rumors surrounding the cause of the quarantine have begun to circulate, ranging from chemical leaks, to structural failure, to arcane anomalies; it was an R&D mineral processing plant for [[Thresher & Coil Industry]] after all. 
+
+Travelling through the alleys on his way home in [[Greyharbor#🛢️ Guttertown — The Workers' Underground|Guttertown]], Zink heard a commotion nearby of two brutes beating up a poor homeless citizen. Upon approach, he met the pair known as Bing and Boom, a goblin and bugbear duo that he later learned have been terrorizing the impoverished (even for Greyharbor standards), and stealing their fillings for a quick buck selling to a dwarvish man known as [[The Collector]], in Trench Row Alley in Guttertowns underbelly. Seeing their might and potential use as expendable muscle, he decided they would be a perfect fit for the operation and recruited them, later arranging a meeting in a nearby tavern.
+
+During their conversation, a pirate by the name of [[Salazar]] approached Zink, telling him that he had been told to find him and join his mission, by some authority. Departing from their goblin friends, Zink took Salazar back to his apartment to further discuss business, where they discovered they were being followed by a half-elven lady named [[Elysia Olostina]]. 
+
+Meanwhile, Bing and Boom returned to the collector to fence their stolen teeth for a few silver pieces, where they found a goblin known as [[Lurtz]] dressed in factory worker clothing following them from the tavern. Deciding not to relocate him, they spared him and he offered them a place to sleep for the night.
+
+The next day, the party all gathered together where they met at [[The Crank and Whistle Tavern]], a half-block away from [[Factory 17]] as their rendezvous point. Zink sent Bing, Boom, and Lurtz all together to case the perimeter.
+
+
