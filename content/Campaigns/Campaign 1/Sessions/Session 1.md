@@ -1,13 +1,14 @@
 #### Introduction
 
-> Our journey starts us in the continent Enan. A land where ancient forests claw at the walls of rising cities, where smoke-blackened towers pierce the clouds, and where the bones of ancient god-giant beasts lie buried beneath stone and soot alike. Industry and the arcane have become tightly coupled and are pushed to their extreme._
+> Our journey starts us in the continent Enan. A land where ancient forests claw at the walls of rising cities, where smoke-blackened towers pierce the clouds, and where the bones of ancient god-giant beasts lie buried beneath stone and soot alike. Industry and the arcane have become tightly coupled and are pushed to their extreme.
 
 > _In the western reaches of Enan, where fog-laced bogs drown the roots of long-forgotten ruins, the Gloaming Fen stretches endlessly into the untamed marshlands surrounding the stone and iron-cladded walls of the cities within. Swamps and sunken roads cradle towns with more ghosts than living men, and nature still clings to power._
 
-> _At the heart of this bogland stands Greyharbor — the City of Industry. A sprawling forge-city of chimneys, cranes, and crowded streets. From the gleaming airship docks of the Gildspire to the gutter-slicked alleys of Guttertown, it is a place of both staggering ambition and abject misery, where fortunes are made in blood and brass, and the light of the Greyharbor Clockspire watches over all, depending on which side of the river you're on. Of course, most of you haven't seen much of the upper tier._
+> _At the heart of this bogland stands Greyharbor — the City of Industry. A sprawling forge-city of chimneys, cranes, spires that reach high into the sky, and crowded streets down below. From the gleaming airship docks of the Gildsprawl of the upper city to the gutter-slicked alleys of Guttertown down below, it is a place of both staggering ambition and abject misery, where fortunes are made in blood and brass._
 
-> _The hustle and bustle of the Lowdocks district continues even well into the evening here. The hours are long and the pay is shit, but at least it keeps one busy away from the toils of living in the lower city tier. If there's one thing that the low folk know how to do, it's drinking, gambling, and partying. They say you're never further than a block away from a bar this side of the Haddock River._
+> _The hustle and bustle of the Lowdocks district continues even well into the evening here. The hours are long and the pay is shit, but at least it keeps one busy away from the toils of living in the lower city tier. If there's one thing that the low folk know how to do, it's drinking, gambling, and partying. They say you're never further than a block away from a bar this side of The River._
 
+>It is 6 o' clock in the evening, and factory workers pour into the streets in the expected rush of folks rushing in the rush hour 
 ### Introductions
 [[Zink Mangrove]] is to assemble a team to break into Factory 17. We begin in the Lowdocks, as Zink Mangrove is walking with a purpose, he peeks into various pubs and taverns, watches by the harbor as people unload and load their ships. 
 
