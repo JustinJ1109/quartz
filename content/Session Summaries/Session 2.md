@@ -7,4 +7,5 @@ During the carnage, a reporter approaches bada bing to get the scoop on what is 
 Bing and Boom request a wheelbarrow from a nearyby hardware store and use it to collect all they can and begin to haul it back to Lurtz's house in Guttertown.
 
 Meanwhile, the rest of the gang decide to descend into the basement floor to put in the lockdown code where they learn there have been hidden experiments performed on various humanoids etc. They learned of at least 5 different types of test subjects that are nowhere to be seen. In the control room is a slow-moving cyclone of debris being upheld by the telekinetic creature in front of the control panel, channeling some kind of essence from the large silos along the walls. 
+
  Carefully, Lurtz ascends the metal catwalk up to where the control panel is just in front of the oily, pale white humanoid currently channeling some spell. As he stealthily reaches past the body of this creature to input the code silently, he goes to pull the lever. At that moment, the humanoid's eyes open and dart to the goblin as he speaks: "Witness me, little goblin! You will not thwart my efforts!"
