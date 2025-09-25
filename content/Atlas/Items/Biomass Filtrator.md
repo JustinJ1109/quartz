@@ -6,9 +6,9 @@ This device resembles a heavy, rune-etched iron cylinder fitted with glass gauge
 
 #### **Properties**
 
-- **Activation.** As an action, you can activate the device, which emits a low thrum and projects a faint cone of translucent light out to 15 feet.
-
-- While activated, it will automatically orient itself to the nearest instance of matching biomass within 2,000 feet.
+- **Activation.** As an action, you can activate the device which emits a low thrum and you may choose between 2 different features of activation:
+1. projects a faint cone of translucent light out to 15 feet and activates the Capture Biomass ability.
+2. Automatically orients itself to the nearest instance of matching biomass within 2,000 feet. This feature is only usable once every 4 hours.
     
 - **Capture Biomass.** While active, any creature reduced to 0 hit points within direct line of sight of the cone must succeed on a DC 15 Constitution saving throw or have its unstable biological essence siphoned into the device. This does not prevent death saves, but prevents the body from leaving behind viable remains if the essence is captured.
     
