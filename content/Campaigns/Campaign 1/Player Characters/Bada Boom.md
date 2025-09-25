@@ -6,3 +6,4 @@
 >| Subclass | Arcane Domain |
 >| Background |  |
 >| Alignment |  |
+

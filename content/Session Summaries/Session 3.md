@@ -6,7 +6,7 @@ Meanwhile, Bing and Boom returned the loot to Lurtz's place and returned just in
 
 They hauled the body of one of the janitors that was in at the time and grabbed some more loot (2 plat bars). 
 
-The guard captain wrote a letter, informing Mr. Olostina of the happenings and of her daugters appearance, as well the situation she described occurring. Elysia was escorted back home.
+The guard captain wrote a letter, informing Mr. Olostina of the happenings and of her daugter's appearance, as well the situation she described occurring. [[Elysia Olostina]] was escorted back home.
 
 The rest of the party stopped by [[The Collector]] where they learned of some possible jobs that they could take for him should they so desire, as he is moving into the medical business and would like to procure some goods to help make his transition easier.
 

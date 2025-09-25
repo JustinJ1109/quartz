@@ -96,9 +96,16 @@ Thresher & Coil employs **thousands** of workers across a wide variety of roles�
 - **Ambition and opportunity**: Skilled employees, especially those in the arcane arts or mechanical fields, are attracted by the chance to work at the **forefront of magical industry**, contributing to **innovations** that may shape the future.
 - **Fear of reprisal**: Especially in regions heavily controlled by Thresher & Coil, employees often feel that **refusing to work for them** could lead to **reprisals**—whether that’s being blacklisted, forced into dangerous labor, or becoming a target for Rux Coil’s more ruthless enforcers.
 
+### Departments
 
+#### CL&CED
+Corporate Legal & Compliance Enforcement Divison
 
+#### SRCD
+Special Risk Containment Department
 
+#### PIMB
+Public Image & Messaging Bureau
 
 ## [[Merrick Thresher]]
 #### Role in the Business

@@ -8,13 +8,12 @@ draft: "true"
 
 ---
 
-**To:** Zink Mangrove  
 **From:** Directorate of Personnel Compliance  
-**Re:** Formal Promotion & Oathbound Contract
+**Re:** Formal Promotion
 
 ---
 
-**Position:** _Compliance Operative, Special Affairs Division_  
+**Position:** _Special Risk Containment Department_  
 **Effective Date:** Upon countersignature and binding
 
 ---
