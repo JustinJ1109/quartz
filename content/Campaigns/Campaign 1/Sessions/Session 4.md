@@ -47,15 +47,20 @@ The Union lawsuit is neutralized thanks to the “arson narrative.”
 
 Public unrest in Brassreach/Guttertown has spiked → [[Thresher & Coil Industry#PIMB|PIMB]] is rolling out propaganda.
 
-Problem: One experiment, The Mawspawn, escaped containment and has been spotted near the Gildsprawl.
+Problem: One experiment, The Mawspawn, escaped containment and has been spotted crossing over the bridge to the Clockspire district.
 
-This cannot hit the broadsheets.
+Until the PIMB teams can silence down the rumors of the Factory completely, it wouldn't be all that hard for people to draw their own conclusions where such a creature came from, which would certainly cut into our bottom line.
 
 If upper-class families panic, it undercuts T&C’s entire “we bring progress and stability” narrative.
 
 So the board looks at Zink:
 
+as your first task as new team leader of the [[Thresher & Coil Industry#SRCD|SRCD]], you are to reassemble what remains of your task force, and to thwart this creature. By my calculations, the mawspawn would already be  Once you have gathered your group, head down to the CL&CED building on the corner of Royal&First ave in the guildsprawl. 
+
 “Mr. Mangrove, your… unconventional methods at Factory 17 have impressed us. You and your team will form the spearpoint of our Special Risk Containment Department. Your first assignment is simple: discreetly track and eliminate the escaped specimen. Should you fail, many could die. And worse, our Q3 expected will fall short and shareholders will be left questioning. We will divert attention as best as possible while you and your group handle the situation _with discretion_ this time... We cannot afford another incident like the Brassreach Brawl, as the low-folk are calling it. This is a matter of utmost discreetness. In the case that the creature kills anyone or can be traced back to T&C, we will need you to id the victim and record their names in this ledger. We will send a doppelganger from the Department of Continuity & Replacement to fill in.”
+
+### Tracking the Monster
+The party in Guttertown 
 
 
 
