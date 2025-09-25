@@ -47,6 +47,6 @@ T&C intelligence confirms fragments (“offspring”) have separated from the ma
 
 - **Political:** Emergence near Clockspire or Gildsprawl would risk magistrate attention. Must conclude operation swiftly.
     
-- **Public:** Witnesses are to be silenced or discredited. Memory suppression agents in short supply.
+- **Public:** Witnesses are to be silenced or discredited. Memory suppression agents in short supply. Doppelganger Division to be dispatched to replace missing citizens until natural causes can be assumed.
     
 - **Operational:** Recommend deploying handlers to “observe” contractor team and ensure collection is executed as specified.
