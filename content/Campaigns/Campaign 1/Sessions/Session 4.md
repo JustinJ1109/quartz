@@ -63,25 +63,14 @@ Once you have gathered your group, head down to the CL&CED building on the corne
 “Mr. Mangrove, your… unconventional methods at Factory 17 have impressed us. You and your team will form the spearpoint of our Special Risk Containment Department. Your first assignment is simple: discreetly track and eliminate the escaped specimen. Should you fail, many could die. And worse, our Q3 expected will fall short and shareholders will be left questioning. We will divert attention as best as possible while you and your group handle the situation _with discretion_ this time... We cannot afford another incident like the Brassreach Brawl, as the low-folk are calling it. This is a matter of utmost discreetness. In the case that the creature kills anyone or can be traced back to T&C, we will need you to id the victim and record their names in this ledger. We will send a doppelganger from the Department of Continuity & Replacement to fill in.”
 
 ### Tracking the Monster
-The party in Guttertown 
+The creatures are attracted to magical essence. Specifically, drunken mages.
+It will attempt to feed in the shadows.
 
+Gildsprawl - Aureal Vineyard
 
+Upon arrival, the party notices there is some kind of event happening, and a large group of drunken mages are currently wine tasting midday. 
+A wine server comes from a cellar below and begins to divvy out glasses to the groups. Party notices one of the mages seems to imbue a coin and hand it to the man who accepts it graciously and heads back to the cellar.
 
-1. Party hears commotion as the city watch is now searching for them
-	1. They need to find a way to clear their names
-		1. Head to Collector
-		2. Get caught
-			1. Intercepted by T&C offering Zink a job
-				1. If he accepts, his name will be cleared and he will be told to report to duty tomorrow
-					1. goes to meeting, gets assignment to track down the creature
-				2. if he declines, they will remind him to reconsider on the grounds that there has never been a whisleblower for T&C to date, and never will be, and they make extra certain of that in specific ways.
-					1. Go to collector
-2. Elysia escorted back to father
-	1. sees man give letter to father
-		1. father reprimands her, and demands she stay inside
-			1. she can try and leave, guards will be patrolling and expecting it though
-			2. if she does, she can loop back up with party, and might encounter signs of the Maw creature and eventually gets to party.
-3. Investigating clues
-	1. Guttertown: 
-		1. Rumors of "demon dogs barking in the sewers" by children. A drunk reports, "a mountain of meat with too many mouths" sliding into the sewer grate.
-		2. Sewer grates bent outward from below
+In the cellar, the party will find the wine servant torn apart, ripped from nipple to naval, and his pants torn apart. INT check to connect to 2.
+
+Clockspire - 
