@@ -58,7 +58,7 @@ So the board looks at Zink:
 as new team leader of the [[Thresher & Coil Industry#SRCD|SRCD]], are to reassemble what remains of your task force, and to eliminate signs of these creatures throughout the city. The gildsprawl is by far the most important to cleanse first. There has been a sighting near the Aureal Vineyard in the Gildsprawl, that should be their first target after obtaining the biomass filtrator.
 
 
-Once you have gathered your group, head down to the CL&CED building on the corner of Royal&First ave in the guildsprawl. 
+Once you have gathered your group, head down to the CL&CED building on the corner of Royal&First ave in the guildsprawl to collect a carepackage that will be vital to the success of this mission. It includes the Biomass Filtrator you will use, as well as a sending stone which will be used to coordinate any further sightings that must be handled.
 
 “Mr. Mangrove, your… unconventional methods at Factory 17 have impressed us. You and your team will form the spearpoint of our Special Risk Containment Department. Your first assignment is simple: discreetly track and eliminate the escaped specimen. Should you fail, many could die. And worse, our Q3 expected will fall short and shareholders will be left questioning. We will divert attention as best as possible while you and your group handle the situation _with discretion_ this time... We cannot afford another incident like the Brassreach Brawl, as the low-folk are calling it. This is a matter of utmost discreetness. In the case that the creature kills anyone or can be traced back to T&C, we will need you to id the victim and record their names in this ledger. We will send a doppelganger from the Department of Continuity & Replacement to fill in.”
 
@@ -73,4 +73,7 @@ A wine server comes from a cellar below and begins to divvy out glasses to the g
 
 In the cellar, the party will find the wine servant torn apart, ripped from nipple to naval, and his pants torn apart. INT check to connect to 2.
 
-Clockspire - 
+Clockspire - Velvet Quill Inn.
+A dorky wizard claims he heard a group of otherworldly voices behind him while he was taking a shortcut through the alley by Fifth and Melvin, but booked it.
+
+Guttertown - Old Dock Warrens - located on the edge of Undertown near the river. This area was long abandoned but Badabing heard rumors of this area being a common place for dark magic rituals, seedy deals by aristocrats to criminals, as well as a more recently refurbished skate park that a lot of the local kids hang out around. In fact, it's where Bing witnessed his first death.
