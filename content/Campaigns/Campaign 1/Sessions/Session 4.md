@@ -1,5 +1,6 @@
 [[Session Summaries/Session 3|Session 3 Summary]]
 
+Salazar escapes off in the night
 ### Hot on The Run
 The party hides out in Lurtz's house, deciding their next moves. As they do, they hear a loud banging on the door and a piece of paper slides under the doorway. 
 

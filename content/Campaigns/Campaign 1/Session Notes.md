@@ -2,6 +2,16 @@ Crank and Whistle - Meeting place of the party during their Factory 17 infiltrat
 
 Mawspawn stats
 
+boom - 20
+17 - maw
+17 - maw
+zink - 8
+bing - 7
+lurtz - 4
+
+15 - lurtz
+13 - dwarf
+
 AC - 15
 HP - 46
 

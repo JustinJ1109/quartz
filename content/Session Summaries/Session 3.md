@@ -11,3 +11,14 @@ The guard captain wrote a letter, informing Mr. Olostina of the happenings and o
 The rest of the party stopped by [[The Collector]] where they learned of some possible jobs that they could take for him should they so desire, as he is moving into the medical business and would like to procure some goods to help make his transition easier.
 
 They went back to Lurtz's place and are in the process of coming up with a plan for how to lay low, now that they are beginning to assess the damage that was done.
+
+2 platinum bars
+3 bushels of alchemical weed crystalweed - healing properties and magical imbuing
+1 crate iron ore
+
+elf works for T&C: Yarvan Mills
+
+captain gaungruel
+
+house wizard merric
+
