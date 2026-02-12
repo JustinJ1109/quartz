@@ -1,62 +1,23 @@
 ---
 draft: "true"
 ---
+**THRESHER & COIL INDUSTRIES | OLISTINA ETHERWORKS** **INTERNAL MEMORANDUM: DOCUMENT 347-C "BINDING ACCORD"** **Strictly Confidential | Level 4 Security Clearance Required**
 
-> [!quote]  
-> **OLISTINA ETHERWORKS INTERNAL MEMORANDUM**  
-> **Strictly Confidential | Document 347-C "Binding Accord"**
+**TO:** Zink Mangrove **FROM:** Directorate of Personnel Compliance / Special Affairs Division **RE:** Promotion to Senior Operative (Containment & Asset Recovery)
 
----
+**SUMMARY:** Following your "unconventional" but effective resolution of the Factory 17 incident and the successful neutralization of the "Witness" entity, Thresher & Coil (T&C) hereby promotes you to the **Special Risk Containment Department** (informally known as the "Janitor Corps").
 
-**From:** Directorate of Personnel Compliance  
-**Re:** Formal Promotion
+**COMPENSATION ADJUSTMENT:** Your rate of pay is hereby increased from **2 silver pieces per hour** to **1 gold piece per hour**. This reflects the hazardous nature of "cleaning up" industrial anomalies and rogue biological assets.
 
----
+**BINDING CONDITIONS (GEAS-ENFORCED):**
 
-**Position:** _Special Risk Containment Department_  
-**Effective Date:** Upon countersignature and binding
-
----
-
-**Summary:**  
-In recognition of your reliable service and proven discretion, Olostina Etherworks — a wholly owned subsidiary of Thresher & Coil Industries — hereby offers promotion to a senior security-cleared position within the Special Affairs Division. This role involves sensitive, high-priority assignments concerning the preservation of proprietary Company interests and management of confidential matters.
-
-**Compensation Adjustment:**  
-Effective upon countersignature, the Operative’s hourly compensation rate shall be increased from **2 silver pieces per hour** to **1 gold piece per hour**, reflecting the elevated risk, confidentiality, and operational scope associated with this assignment.
-
----
-
-**Non-Disclosure Clause (Geas-Bound):**  
-By acceptance of this position, the Operative agrees to the following binding conditions, enforced by Company-appointed arcane compulsion (Geas):
-
-- The Operative may **not disclose the existence, content, or any details of this contract** to any party without privileged clearance as defined by the Directorate of Special Affairs.
+- **Total Silence:** You may not disclose the existence of the "Witness," the lockdown explosion at Factory 17, or the true nature of T&C mineral processing to any unauthorized party.
     
-- The Operative may **not discuss or divulge the details of this agreement, its terms, or any associated knowledge to subordinates, peers, or outside parties**, whether affiliated with the Company or otherwise.
+- **Asset Retrieval:** You are required to secure and return all T&C proprietary materials—specifically any "pulsating blue-tinted stones" or organic "Ley-Larvae" encountered in the field.
     
-- The Operative understands that any breach of this non-disclosure clause will result in immediate arcane enforcement, with punitive measures including cognitive dissonance, physical incapacitation, or fatality.
+- **Team Integrity:** While your current associates (the "Bada" duo, the furloughed worker, and the pirate) are cleared for this task force, you are personally liable for their discretion.
     
 
-**Note:**  
-This agreement does **not compel the Operative to accept or carry out any future directives**. However, all operational orders provided under privileged clearance remain confidential and protected by the same restrictions outlined herein.
+**ARCANO-LEGAL NOTE:** Failure to comply with the secrecy requirements will trigger a **Cerebral Combustion Clause**. You will feel a sharp pain behind your left eye if you attempt to speak of these matters; continuing to do so will result in immediate "permanent termination" of your consciousness.
 
----
-
-**Duration:**  
-This binding remains in effect for the Operative’s term of service or until formally released by writ of the Directorate of Special Affairs.
-
----
-
-**Severance Clause:**  
-Termination of employment does not automatically nullify the binding restrictions of this accord. Only authorized dispensation by the Directorate may release the Operative from its conditions.
-
----
-
-**Acknowledgement:**  
-By signing below, the Operative confirms comprehension of these terms and consents to the application of the aforementioned binding enchantment, effective immediately upon execution of this contract.
-
-**Signed:** ___________________________  
-
-**Countersigned:** _____________________  
-_Director Kellevar Shorn, Special Affairs Division_
-
-**Date:** 4th Cycle, 1011 4th Age
+**SIGNED:** ___________________________ (Zink Mangrove) **COUNTERSIGNED:** _Director Kellevar Shorn, Special Affairs Division_
