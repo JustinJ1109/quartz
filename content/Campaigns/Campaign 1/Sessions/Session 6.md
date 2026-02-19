@@ -53,7 +53,7 @@ Instead of suppressing the memories and covering up the incident, the Syndicate 
 The syndicate wants to recruit the party, specifically Salazar and Bada Bing seeing that they are closest to the underworld. 
 	Key NPCs:
 		- [[Morgan "The Sluicer"]] - A toned, middle-aged earth genasi with tattoo sleeves and neck sleeve. Burn scars on his back from prior T&C employment, but had his memory wiped so he doesn't recall how he got them. 
-			- Vengeful, Impulsive, Friendly
+			- Vengeful, Impulsive, Ponderive
 		- [[Mama Bong]] - Chief smuggler for the Greywater Syndicate. 
 
 #### [[Thresher & Coil Industry]]
