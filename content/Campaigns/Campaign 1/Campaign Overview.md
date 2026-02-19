@@ -1,122 +1,65 @@
+# Summary / Overview
 
+## The Rise, The Fall, The Shadow of The World
+### The Rise: The Era of the Titans
 
-In the untamed world of [[World Overview#Enan|Enan]], the balance between nature and civilization is beginning to crumble. An ambitious and rising power, [[Thresher & Coil Industry]], is expanding its reach—annexing lands, uprooting ancient forests, and leaving scorched earth in its wake. Their relentless march of industry threatens the wild magic of the land, awakening ancient forces and igniting tensions among old powers. As fear spreads and alliances fray, whispers of war stir across the realms. Will [[World Overview#Enan|Enan]] be reforged in steel and smoke, or will nature rise to reclaim what was stolen?
-## Player-Facing Synopsis
-Enan is changing—fast.
+In the dawn of time, the continent of **Enan** was not a swamp, but a cradle of primordial power. Legend speaks of an era where the nations—the Dwarven tunnel-kings, the Northern Kobold alchemists, the Goliath tribes, and the Goblin tacticians—lived in a world of abundant, raw magic. They worshipped the land as a living god, a Titan of earth and spirit. This was the golden age of symbiosis where magic flowed freely, and the swampy wilds were but lush gardens of a conscious world.
 
-The old ways are dying under the weight of progress. Smoke fills the skies, machines hum where forests once stood, and gold flows to the clever, the ruthless, and the lucky. Somewhere in all this chaos, there’s plenty of coin to be made and power to grab—for those willing to get their hands dirty.
+### The Fall: The Shattering
 
-You’re not a hero. You don’t need to be. Maybe you’re a mercenary looking for work, a spell-slinger chasing relics, or just someone trying to survive in a world that doesn’t care about honor or legacy. But when you stumble onto something bigger than expected—missing people, twisted magic, and secrets best left buried—you’ll have to decide: keep your head down and get paid, or dig deeper and see what’s really rotting under the surface.
+The Fall came when the ancients grew greedy. They attempted to harness the Titan's very heartbeat to fuel their empires. In their hubris, they triggered a geological rejection. The Titan thrashed in retaliation, shattering the landscape into the treacherous, mist-choked swamplands that now define Enan. Civilizations were isolated, knowledge was lost, and the world became a hostile, unexplored frontier. The "Antibodies"—the first of the horrorific monstrosities released into the wilds—were birthed then to prune the survivors and to protect the planet from further tampering. For millennia, Enan has been a "barrier to be survived," a world in a defensive crouch offering little respite for the nations that still called the continent home, desperately clinging together against the fauna that threatened their existence.
 
-Whatever path you take, one thing’s certain: the continent of Enan is ripe for the taking… if it doesn’t eat you first.
-- ---
-## Main Plot 
-### Option 1: Salvation Through Control
+### The Shadow: The Era of Thresher & Coil
 
-> **"The wilds cannot be trusted. Only industry brings peace."**
+We now live in the **Shadow**. Out of the mud of the Shattering, the sprawling city **Greyharbor** rose as a beacon of trade, connecting the fractured nations through the necessity of survival. But a new hubris has emerged: **Thresher & Coil Industries**.
 
-#### Core Philosophy:
+T&C did not just invent gadgets; they rediscovered the "Old Math" of the Fall. They rose to power with a terrifying decisiveness, turning Greyharbor from a hub of hope into a sprawling industrial engine of greed. They are no longer content with mere commerce. Across the continent, their "Deep-Well" siphons are piercing the crust of the world, drilling toward the **Heart of Enan**.
 
-Thresher & Coil believe that **nature is chaos**—not in a poetic sense, but in a _real_, terrifying way. Wild magic is volatile, ancient spirits are capricious, and the so-called balance of nature is just a slow-burning apocalypse. They've seen firsthand what happens when primal forces go unchecked—perhaps a magical wildfire, a corrupted druidic uprising, or a rogue leyline event destroyed their homeland. Ever since, they’ve sworn to impose **order** and **stability** on the world.
+The Shadow is the silence before the scream. T&C is repeating the exact sins that caused the Fall, but this time, they have the technology to try and "kill" the Titan before it can wake up.
 
-But here’s the twist: they’re not evil. They _genuinely believe_ that their expansion is saving lives. It's just that their version of "salvation" comes with a price: the **extinction of untamed magic and wilderness**. Forests are turned into extraction zones. Magical creatures are either enslaved or dissected. Druids and fey-aligned factions are labeled terrorists.
+### The Current State of the World
 
-> “The only true peace is the peace of order. The land will scream, but it will survive.”
-#### What They Offer:
-- **Safety from magical disasters**
-- **Clean infrastructure, protection from bandits/monsters**
-- **Rebuilding civilization from chaos**
-#### Moral Ambiguity:
-- **Pro:** They’re preventing potentially world-ending magical threats.
-- **Con:** They're doing so by wiping out cultures, ecosystems, and ancient magic.
-- **Dilemma for players:** What if they _are_ right about nature’s volatility?
-#### Story Hooks:
-
-- The party visits a village where life is better under Thresher & Coil—but surrounded by poisoned earth.
-- An archdruid warns of a coming magical event—one the Company _claims_ to be preventing by bulldozing the forest.
-- A city once destroyed by a magical storm now thrives as a model Company settlement.
-
-### Option 2: To Contain a Greater Threat
-
-> **"We burn the forests so what sleeps beneath them stays buried."**
-
-#### Core Philosophy:
-
-Centuries ago, Thresher & Coil discovered something beneath the untouched parts of Enan—something _old_. Something _hungry_. Perhaps it’s an eldritch entity, a buried god, a continent-sized beast slumbering below, or a metaphysical infection tied to wild ley lines. Whatever it is, it is **bound to the land**—and as long as nature thrives, so does _it_.
-
-The wilds feed it: through dreams, magic, belief. And so, the only way to contain it is to **destroy the ecosystems** that nourish it. Every factory is a ward. Every refinery breaks a leyline that might awaken it. Every tree cut down is a heartbeat slowed.
-
-> “You see pollution. We see anesthesia.”
-#### What They Offer:
-- **The secret truth**: They are the only thing standing between the world and oblivion.
-- **A cold, ugly method of survival**
-- **They may even _sacrifice their own morals_ for the world’s safety**
-#### Moral Ambiguity:
-- **Pro:** Their expansion may be the only thing stopping the return of an ancient apocalyptic force.
-- **Con:** No one else knows the truth. The world sees only conquest and ruin.
-- **Dilemma for players:** What happens if the Company collapses? What wakes up?
-
-## Plotline
-#### **Act I – Whispers of Industry**
-
-- **Inciting Incident**: A T&C factory explosion devastates a small settlement or wild region; strange phenomena or disappearances follow.
+- 90% of Enan remains a swampy mystery, filled with ruins of the Rise and monsters of the Fall.
     
-- **The Hook**: Players investigate and discover signs of bio-magical experiments on local creatures or citizens.
+- T&C is ubiquitous. From the smallest goblin bolt to the largest dwarven steam-drill, their logo is everywhere.
     
-- **Mystery & Discovery**: Clues suggest the factory was harvesting something unnatural, perhaps tied to ley lines or fey creatures.
-    
-- **Initial Resistance**: The party meets a small group of eco-resisters who reveal early truths about T&C's reach.
-    
-- **Foreshadowing**: Strange magical anomalies begin spreading—"scars" left where nature and industry clash.
-    
+- Monsters are appearing with more frequency and violence. T&C calls them "unfortunate side effects" of progress.
 
-#### **Act II – The Machines March**
+## The Theme: Nature vs. The Machine
 
-- **Expansion Unfolds**: T&C establishes new facilities in contested zones; corruption seeps into cities, towns, and governments.
-    
-- **Allies and Enemies**: The party is caught between competing interests—some who support the order T&C offers, others who resist.
-    
-- **Ancient Powers Stir**: The destruction of sacred groves or fey nexuses awakens old powers—elementals, fey courts, or forgotten gods.
-    
-- **Moral Dilemmas**: The players are asked to choose between practical benefits and long-term consequences as innocents begin benefiting from T&C “progress.”
-    
-- **Reveal of Rux Coil**: The party tangles with the company’s enforcer and uncovers his brutal underworld network.
-    
+- **The Antagonist:** **Thresher & Coil Industries.** Led by the C-Suite executives, they seek to sedate the planet’s consciousness entirely to harvest its "Primal Wellspring"—a source of infinite wild magic that would grant them god-like control over reality.
+	
+- **The Threat:** The **Titan’s Retaliation**. If the drilling continues, the planet will not just spawn monsters; it will trigger a "Grand Pulse," a wave of wild magic that will unmake civilization and return Enan to a primordial soup.
 
-#### **Act III – Secrets Beneath the Smoke**
+## Main Plot Beats
+### Key Factions & Motives
 
-- **Digging Deeper**: Players discover evidence that T&C is suppressing something ancient and terrible—an entity or force bound to wild magic.
+- **Thresher & Coil (The Board):** Driven by "The Bottom Line." They view the planet as a battery, not a being. They use the city guard and "The Collector" as pawns to keep the lower districts in check.
+	- Goals: Increase profits, hide intentions, harvest the power of the planet titan for ultimate control.
     
-- **Hidden Truths**: Documents, visions, or an imprisoned sage reveals the dual philosophies: control nature to survive, or preserve it and risk awakening “what sleeps.”
-    
-- **The Tension Splits**: Merrick and Rux’s growing conflict surfaces—an opportunity for the party to exploit or influence.
-    
-- **Rebellion Rises**: Larger factions rise up against T&C; war simmers across Enan.
-    
-- **Player Choice**: Will the party align with a growing rebellion, attempt to reform T&C from within, or seek a third path?
-    
+- **The Greyharbor Beaurocrats** Caught in the middle. They want order in Greyharbor but are increasingly compromised by T&C’s "donations." and insiders. 
+	- Goals: Maintain order and status, Keep the city prosperous and in-power.
 
-#### **Act IV – Fire and Root**
+- **The Greywater Syndicate:** An underground syndicate of Greyharbor composed of the lower folk that have been injusticed and abused by T&C and the government and those that stand with them.
+	- Goals: undermine T&C, recruit enough folks to start a widespread rebellion.
 
-- **Major Battles**: Players lead or defend territories as war erupts—forest guardians, awakened gods, and arcane machines clash.
-    
-- **The Hidden Engine**: The party discovers T&C's deepest facility, built on a slumbering power—its operation keeps it sedated.
-    
-- **Endgame Setup**: Merrick seeks to activate a continent-wide lattice to permanently sterilize wild magic. Rux plans to use it for domination.
-    
-- **Critical Choice**: Do the players stop the lattice? Steal control of it? Or forge a compromise that risks new chaos?
-    
+### The Inciting Incident
+The party was tasked by T&C to delve into Factory 17 after a mysterious evacuation of the workers left it under investigation by the city for suspicion of malpractice in the Brassreach Yards of Greyharbor. They were to set off the self-destruct sequence in attempt to tamper with and hide the evidence of the illegal goings-on there. They discovered that T&C had been performing experiments on test subjects that were freed unintentionally into the city during the evacuation for reasons unknown.
 
-#### **Act V – Ashes and Renewal**
+Now, the party finds themselves fully employed as mercenaries for T&C and are tasked with cleaning up after the mess of the company and are bounded by magic contract to speak nothing of the events or their motives to anyone that is not cleared by T&C.
 
-- **Climactic Showdown**: A battle against both Thresher & Coil leaders—possibly separately or as enemies themselves.
-    
-- **The Wild Awakens**: Whether triggered by player actions or not, the ancient force stirs—forcing a final confrontation or diplomatic reckoning.
-    
-- **Resolution Paths**:
-    
-    - **Nature Restored**: The company is dismantled, wild magic returns, but the world becomes more dangerous.
-        
-    - **Industry Prevails**: T&C succeeds, and peace reigns—at the cost of ecological and magical diversity.
-        
-    - **Balance Forged**: The players negotiate a truce—binding the power beneath and founding a new order that mixes tradition and progress.
+### Player Integrations
+
+**Bada Boom** - A bugbear paladin. Medically stupid with a intelligence of 7. He has declared an oath to protect his handler, Bada Bing (AKA Mr. Bing), a bardic goblin of decent notoriety in the Greyharbor borough of Guttertown. He will do anything Bing suggests unquestionably. Mysteriously speaks Celestial.
+	Unbeknownst to him, he had once been a member of the _Astral Scholars_, who were set on a mission to unearth the history of the ancients and the actions that lead to the Fall of the previous world. Thresher and Coil attempted to capture and interrogate him for this information. In attempt to protect the information and himself, he true polymorphed himself into a bugbear and nuked his own brain, locking the intelligence he once held in a hidden vessel somewhere in the world.
+	Sometimes, he can hear a voice yelling out for help in celestial, which, unbeknownst to him is the titan itself in its fitful slumber.
+
+**Bada Bing** - A goblin bard. A very unintelligent man who makes up for it in showmanship and charisma. Ask anyone in Guttertown and they'll say they know who he is. He by no means runs the place, but he's in-the-know and has a lot of friends--and enemies. He is Bada Boom's handler and friend, and together they run a side hustle of hustling the lowlifes of Guttertown for their silver fillings to sell for chump change to a man known to many as "The Collector", a deceptively friendly dwarven man with a slow southern drawl who had been stripped of his dentistry degree for malpractice now found in the Underalley of Guttertown. 
+
+**Zink Mangrove** - Aasimar Artificer. Zink is a career-man who recently got a promotion and employee of the month reward after good management working at Thresher & Coil, corporate office. He was entrusted the duty to put together a task force of expendables and thwart the investigation efforts of the city on Factory 17 after mysterious happenings lead to the evacuation and furlough of the factory workers.
+
+**Salazar** - Human Warlock. In fact, Salazar is not a name, but rather a title of _Pirate Lord_ among his culture. One acquires the title through usurping the previous Salazar's position via duel to the death. His crew and him were stealing goods to be transported to a mysterious contact from the Greyharbor Docks when the town guard seemed almost too ready to apprehend him and his crew, as if they knew their intentions before they even got there. Most of his crew had fled, but Salazar was caught and imprisoned awaiting trial when a T&C official offered him a deal: Seek out the man Zink Mangrove and assist in the task he requests, or face a life sentence in prison for his past misdeeds. The choice was simple. 
+
+**Elysia Olostina** - Elf Cleric. Elysia is the daughter of Arthor Olostina, founder of Olostina Etherworks, a production plant that was recently purchased by T&C in a merger between the two companies. He runs a small chain of arcane refinement plants that supply T&C research facilities in and on the outskirts of the city and is generally one of the wealthier folks in the city. She lives in her father's estate in the upper Gildsprawl borough but is generally keen on rebelling against her fathers' expectations of her taking over the family business in his place. She often hangs around the lower districts out of morbid curiosity to see what it would be like and often wishes for a life of adventure.
+
+**Lurtz** - Goblin Rogue. A goblin factory worker employed by T&C at Factory 17. He lives in a studio apartment at the bottom of a shantystack in Guttertown, living paycheck to paycheck between the occasional mugging, extortion by his landlord, and his crippling gambling addiction.

@@ -1,4 +1,4 @@
-[[Session Summaries/Session 1|Session 1 Summary]]
+![[Session Summaries/Session 1|Session 1 Summary]]
 
 ### Factory Infiltration
 Notes that the party learned during the casing of the factory:

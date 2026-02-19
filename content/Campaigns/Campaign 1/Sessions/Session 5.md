@@ -1,3 +1,5 @@
+![[Session Summaries/Session 4|Session 4 Summary]]
+
 The party starts back at Lurtz' place, the morning after they recovered the two blue orbs.
 They see in the town, a group of workers patching up some holes in the roof.
 

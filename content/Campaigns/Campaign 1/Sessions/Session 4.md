@@ -1,4 +1,4 @@
-[[Session Summaries/Session 3|Session 3 Summary]]
+![[Session Summaries/Session 3|Session 3 Summary]]
 
 Salazar escapes off in the night
 ### Hot on The Run
