@@ -1,11 +1,17 @@
 ![[Session Summaries/Session 5|Session 5]]
 
 ### Session Opening
+```
+The four of you are transported through the Clockspire borough into the legal district. The city is quiet and foggy on this night, the torchlight of small patrol groups refracts in the air, a blur until you get closer, guards eye you and then continue their patrols.
+
+You arrive at the jail. the front office smells of stale paper, and a single old, gnomish fellow, feet kicked up from behind the front desk, does little more than glance at you all before going back to his book. You catch a glimpse of a set of bunkrooms seemingly occupied before you continue into a backroom, set by a heavy iron door with only a single grate to see through
+```
+
 Players are being transported to jail and held for trial.
 
 Bada Bing - Accomplice in crime. Will be questioned but probably released.
 Bada Boom - Assault on city watch guard. Will almost certainly be shipped off to prison on the next prison wagon, unless they can get him off on that he is medically stupid, in which case one of his party members will need to register as his legal guardian to be held responsible by his actions
-Lurtz - Breaking and Entering
+Lurtz - Breaking and Entering.
 Zink - Attempted Assault on a city guard, damage of property. Reckless discharge of magic in the city.
 
 Bada Bing is released from jail, and a T&C lawyer reaches out to him to inform him that he will help get his party off with minimal punishment and no prison, but it'll be tough and that what they really need is someone with enough beaurocratic sway and influence to vouch for the bugbear, or else it's very possible he'll end up in prison for assaulting the guard.
@@ -26,7 +32,7 @@ An earthquake hits while the party is in jail. A sinkhole is in the process of o
 ### Bing and Borgenarf's Release
 Bada Bing is released along with Borgenarf III after seeing that no charges could really stick.
 A T&C Lawyer, [[Silas Vane]] approaches Bing and informs him that they know of the kerfuffle, and the only way Boom is getting charges dropped for hitting a guard is by getting someone with sway to be able to vouch for the bugbear and they'll need to quick. 
-	He paid off the judge, but supposedly, the plaintif was hired directly by Senator Grumblatch himself when he heard you all were hired by T&C. The Beaurocrats have been trying to get any dirt possible on T&C.
+	He paid off the judge, but supposedly, the plaintiff was hired directly by Senator Grumblatch himself when he heard you all were hired by T&C. The Beaurocrats have been trying to get any dirt possible on T&C.
 
 ### Elysia Recovery
 [[Arthur Olostina]] leaves his daughter alone to go on a business trip. He passes her a sending stone to use in case she needs anything, but will leave her with Merrick to watch over. He will be taking the estate guards with him, leaving the estate unguarded but Merrick will use illusions to make it seem protected.
@@ -63,6 +69,7 @@ The company is currently working to secure steady supply lines to a nearby outpo
 		- [[Silas Vane]] - T&C Third-Party employee legal representative and liaison. A well-muscled shadar-kai with never a crease in his suit. Carries a black briefcase and wears reflective T&C-brand message sunglasses indoors and lives to work in it for the money. 
 			- Cool, Calculated, Aggressive but hides it
 		- [[Magnus Quibble]] - T&C COO.
-		- [[Big Boss Groucho]] - Illegal Mercenary corpo boss that T&C has been using to launder their money and pay off for off-the-books hits
+		- [[Big Boss Groucho]] - Illegal Mercenary corpo boss that T&C has been using to launder their money and pay off for off-the-books hits.
+
 #### [[The Greyharbor Beaurocrats]]
 Currently working to uncover the truth of Factory 17. 
