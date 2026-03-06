@@ -1,8 +1,7 @@
 ![[Session Summaries/Session 6|Session 6]]
 
-
 ## What Happens Next
-The party is to investigate and ask around for anything suspicious regarding the flesh monsters they've encountered. They were given a memory wiping tool to be used on anyone who seems to know about what happened and they are to wipe a 10 minute period of them perceiving the creatures or anythign abnormal.
+The party is to investigate and ask around for anything suspicious regarding the flesh monsters they've encountered. They were given a memory wiping tool to be used on anyone who seems to know about what happened and they are to wipe a 10 minute period of them perceiving the creatures or anything abnormal.
 
 The party will reveal clues and rumors that lead them to the arcane waste sewer drain
 
@@ -29,9 +28,9 @@ The dungeon is a runoff drainage cistern where the arcano-steam waste is collect
 	- Hermes recognized Goblino as a fellow member who fought in the Ashvex Revolution and noticed something funny afoot when he didn't recognize him back. He took him to a secret Greywater Syndicate den for questioning and to try and restore his memory.
 	- He will inform the players that there are serious secrets that might just be the next big piece to the puzzle locked within Goblino's mind, and they should keep an eye out for any powerful wizards, research notes, etc that might glean insight into how they can figure out how to restore his memories.
 - What does the syndicate do with the flesh creatures? Why would they want the players to capture these creatures for their group alive, as opposed to taking them to T&C?
-	- They want to use these creatures as proof of T&Cs doing. Claiming that these creatures are the combined parts of test subjects of failed experiements.
+	- They want to use these creatures as proof of T&Cs doing. Claiming that these creatures are the combined parts of test subjects of failed experiments.
 - What can they offer the players for joining and leaving their cushy T&C jobs?
-	- They can offer them a way to break their contract and retain their memories after all. They can offer them revolution over Greyharbor, and equality for all
+	- They can offer them a way to break their contract and retain their memories after all. They can offer them revolution over Greyharbor, and equality for all.
 
 ### [[Thresher & Coil Industry]]
 - What do they want with the flesh creatures?
